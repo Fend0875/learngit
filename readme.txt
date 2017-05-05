@@ -5,4 +5,4 @@ Git tracks changes of files.	-- 跟踪修改
 My stupid boss still prefers SVN.
 Creating a new branch is quick.	--分支
 Creating a new branch is quick.	--分支2
-Creating a new branch is quick AND simple.	--冲突
+Creating a new branch is quick & simple.	--冲突
