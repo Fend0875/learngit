@@ -6,4 +6,4 @@ My stupid boss still prefers SVN.
 Creating a new branch is quick.	--分支
 Creating a new branch is quick.	--分支2
 Creating a new branch is quick and simple.	--冲突
-ignore config
+add ignore config file.
