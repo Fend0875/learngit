@@ -1,7 +1,8 @@
 Git is a distributed version control system.
 Git is free software distributed under the GPL.
 Git has a mutable index called stage.
-Git tracks changes of files.	-- 跟踪修改
+Git tracks changes of files.	-- 璺熻釜淇敼
 My stupid boss still prefers SVN.
-Creating a new branch is quick.	--分支
-Creating a new branch is quick.	--分支2
+Creating a new branch is quick.	--鍒嗘敮
+Creating a new branch is quick.	--鍒嗘敮2
+Creating a new branch is quick AND simple.	--鍐茬獊
